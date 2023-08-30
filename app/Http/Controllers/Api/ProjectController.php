@@ -15,4 +15,6 @@ class ProjectController extends Controller
 
         return response()->json($projects);
     }
+
+    // testata la risposta tramite Postman
 }
